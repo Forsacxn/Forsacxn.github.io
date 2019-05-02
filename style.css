@@ -3,7 +3,6 @@ body {
   font-family: Helvetica, sans-serif;
   background-color: #f4f4f4;
 }
-
 div.about {
   border: 1px solid gray;
   padding: 8px;
@@ -13,17 +12,23 @@ div.about {
   width: 100%;
   text-align: center;
   font-size: 18px
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 h1.center {
   text-align: center;
   text-transform: uppercase;
   color: #4CAF50;
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 p.center {
   text-indent: 50px;
   text-align: center;
+  overflow-y: scroll;
+  overflow-x: hidden;
 }  
 
 a {
