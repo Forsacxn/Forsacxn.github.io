@@ -8,7 +8,7 @@ body {
   background-color: #f4f4f4;
 }
 
-.about {
+div.about {
   border: 1px solid gray;
   padding: 8px;
   position: absolute;
@@ -16,27 +16,17 @@ body {
   top: 50%;
   width: 120%;
   text-align: center;
-  font-size: 18px
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 h1.center {
   text-align: center;
   text-transform: uppercase;
   color: #4CAF50;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 p.center {
   text-indent: 50px;
   text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }  
 
 a {
