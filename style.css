@@ -15,9 +15,6 @@ h1.center {
   color: #4CAF50;
   position: absolute;
   top: 80px;
-  right: 0;
-  width: 200px;
-  height: 100px;
 }
 
 p.center {
@@ -25,9 +22,6 @@ p.center {
   text-align: center;
   position: absolute;
   top: 100px;
-  right: 0;
-  width: 200px;
-  height: 100px;
 }  
 
 a {
