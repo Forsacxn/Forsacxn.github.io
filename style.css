@@ -26,11 +26,17 @@ h1.center {
   text-align: center;
   text-transform: uppercase;
   color: #4CAF50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 p.center {
   text-indent: 50px;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }  
 
 a {
