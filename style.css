@@ -4,6 +4,23 @@ body {
   background-color: #f4f4f4;
 }
 
+div.About {
+  border: 1px solid gray;
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}  
+
 a {
   color: #000;
 }
