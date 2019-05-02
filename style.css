@@ -2,6 +2,15 @@ body {
   margin: 0;
   font-family: Helvetica, sans-serif;
   background-color: #f4f4f4;
+  background-image:
+  linear-gradient(
+    to right, 
+    #fffdc2,
+    #fffdc2 15%,
+    #d7f0a2 15%,
+    #d7f0a2 85%,
+    #fffdc2 85%
+  );
 }
 
 div.about {
@@ -11,18 +20,6 @@ div.about {
   left: 0;
   top: 50%;
   width: 100%;
-}
-
-html {
-  background-image:
-    linear-gradient(
-      to right, 
-      #fffdc2,
-      #fffdc2 15%,
-      #d7f0a2 15%,
-      #d7f0a2 85%,
-      #fffdc2 85%
-    );
 }
 
 h1.center {
