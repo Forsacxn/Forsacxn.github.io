@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Helvetica, sans-serif;
-  background: linear-gradient(to right, #fffdc2, #fffdc2 15%, #d7f0a2 15%, #d7f0a2 85%, #fffdc2 85%);
+  background-color: #f4f4f4;
 }
 
 div.about {
