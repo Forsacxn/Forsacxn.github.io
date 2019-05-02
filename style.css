@@ -7,21 +7,23 @@ body {
 div.about {
   border: 1px solid gray;
   padding: 8px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px
 }
 
 h1.center {
   text-align: center;
   text-transform: uppercase;
   color: #4CAF50;
-  position: absolute;
-  top: 80px;
 }
 
 p.center {
   text-indent: 50px;
   text-align: center;
-  position: absolute;
-  top: 100px;
 }  
 
 a {
