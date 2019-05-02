@@ -6,12 +6,11 @@ body {
 
 div.about {
   border: 1px solid gray;
-  padding: 5px;
+  padding: 8px;
   position: absolute;
   left: 0;
   top: 50%;
   width: 100%;
-  text-align: center;
 }
 
 h1.center {
