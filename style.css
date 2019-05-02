@@ -13,10 +13,15 @@ div.about {
   width: 100%;
 }
 
-.gradient {
+html {
   background-image:
     linear-gradient(
-      red, #f06d06
+      to right, 
+      #fffdc2,
+      #fffdc2 15%,
+      #d7f0a2 15%,
+      #d7f0a2 85%,
+      #fffdc2 85%
     );
 }
 
