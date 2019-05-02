@@ -4,18 +4,18 @@ body {
   background-color: #f4f4f4;
 }
 
-div.About {
+div.about {
   border: 1px solid gray;
   padding: 8px;
 }
 
-h1 {
+h1.center {
   text-align: center;
   text-transform: uppercase;
   color: #4CAF50;
 }
 
-p {
+p.center {
   text-indent: 50px;
   text-align: justify;
   letter-spacing: 3px;
