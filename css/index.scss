@@ -1,0 +1,52 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p,
+div,
+body,
+input,
+select,
+article,
+textarea{
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: url(assets/background.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.page-title {
+    margin: auto;
+    padding: 1em;
+    font-size: 2em;
+    text-align: center;
+    font-weight: 600;
+}
+
+.content {
+    width: 60%;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-size: 1.5em;
+}
+
+@import "navbar";
+@import "grid";
