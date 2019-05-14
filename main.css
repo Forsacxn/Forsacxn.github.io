@@ -65,7 +65,7 @@ body {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3);
   grid-gap: 10px; }
   .grid .grid-item {
     border-radius: 10px;
