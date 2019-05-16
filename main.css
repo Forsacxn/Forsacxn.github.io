@@ -80,4 +80,12 @@ body {
       height: 300px;
       border-radius: 0 0 10px 10px; }
 
+.play {
+  background: white;
+}
+
+.play:hover {
+  opacity:0;
+}
+
 /*# sourceMappingURL=main.css.map */
