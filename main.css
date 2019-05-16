@@ -76,16 +76,8 @@ body {
       background-color: #d2d2d2;
       border-radius: 10px 10px 0 0; }
     .grid .grid-item .grid-image {
-      width: 250px;
-      height: 300px;
+      width: 500px;
+      height: 500px;
       border-radius: 0 0 10px 10px; }
-
-.play {
-  background: white;
-}
-
-.play:hover {
-  opacity:0;
-}
 
 /*# sourceMappingURL=main.css.map */
