@@ -1,0 +1,74 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="main.css"/>
+    <link rel="stylesheet" href="freezeframe_styles.min.css">
+    <script src="//code.jquery.com/jquery-2.2.0.min.js"></script>
+    <script src="freezeframe.js"></script>
+    <title>Furniture King | Bathroom</title>
+
+<script type="text/javascript">
+  $(function() {
+    first = new freezeframe('.my_class_1').freeze();
+	  
+  })
+</script>
+  </head>
+
+  <body>
+    <div class="navbar">
+      <div class="navbar-brand">
+        <span>Furniture King</span>
+	    </div>
+	   
+
+      <div class="navbar-items">
+        <a class="navbar-item" href="Bedrooms.html">
+          <span>Bedrooms</span>
+        </a>
+        <a class="navbar-item" href="Bathrooms.html">
+          <span>Bathrooms</span>
+        </a>
+        <a class="navbar-item" href="Kitchens.html">
+          <span>Kitchens</span>
+        </a>
+        <a class="navbar-item" href="index.html">
+          <span>About</span>
+        </a>
+      </div>
+    </div>
+
+    <div class="page-title">
+     Silverware
+    </div>
+    <div class="container">
+      <div class="grid">
+        <div class="grid-item">
+          <div class='grid-desc'>
+            Fork & Knife Set - £15
+          </div>
+          <img class='grid-image' src="https://www.palmerstores.com/media/img/products/1-35757-stellar-rochester-knife-and-fork-775-zoom.jpg"></a>
+
+          </img>
+        </div>
+        <div class="grid-item">
+          <div class='grid-desc'>
+            Entire silverware set - £25
+          </div>
+          <img class='grid-image'src="https://images-na.ssl-images-amazon.com/images/I/61GoUpYG84L._SX466_.jpg">
+
+          </img>
+        </div>
+        <div class="grid-item">
+          <div class='grid-desc'>
+           Spoon Set - £10
+          </div>
+	        <img class='grid-image' src="https://images-na.ssl-images-amazon.com/images/I/41O6avxtjiL.jpg">
+	      </img>
+        </div>
+        
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
